@@ -1,8 +1,10 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Code Challenge 27: First Dupe
+![cf](http://i.imgur.com/7v5ASc8.png) Code Challenge 27: Common Tree Values
 ===
+![Whiteboard 1](./src/assets/20181017_155110.jpg);
+![Whiteboard 2](./src/assets/20181017_155111.jpg);
 
 ## Overview
-Given a string, returns the first duplicate word in the string from left to right. if nothing else, just returns undefined.
+Function that takes in two binary trees and returns the common values between them.
 
 ## Usage
 Requires: NodeJS and NPM (as well as git).
